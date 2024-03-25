@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jking-rules2007
-- 👀 I’m interested in Coding, Basketball, and Teachnology
+- 👋 Hi, I’m Janujan Vaseekaran
+- 👀 I’m interested in Coding, Basketball, and Technology
 - 🌱 I’m currently learning a new coding language called C
 
 
