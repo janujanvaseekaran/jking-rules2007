@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Janujan Vaseekaran
 - 👀 I’m interested in Coding, Basketball, and Technology
 - 🌱 I’m currently learning a new coding language called C
+- 💼 I'm determined in pursuing my dream in software engineering at the University of Waterloo
 
 
 <!---
